@@ -20,7 +20,7 @@ Check out the live demo of Cura here: [Live Preview](http://cura-ai.vercel.app) 
 
 ## 🎥 Watch Tutorial on YouTube
 
-Check out the tutorial to see how this authentication system was built: [Watch the Tutorial](https://www.youtube.com/watch?v=7ZtF5AlG0SM) 💻
+Check out the tutorial to see how this authentication system was built: [Watch the Tutorial](https://youtu.be/kJBHPCJHWug?si=_hAOCqKsMKcyCxdU) 💻
 
 ## 💻 Tech Stack
 
