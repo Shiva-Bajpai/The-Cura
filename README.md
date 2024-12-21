@@ -87,4 +87,4 @@ If you have any questions or feedback, feel free to reach out via [GitHub Issues
 
 ---
 
-Built with ❤️ by [Shreyas](https://github.com/Shiva-Bajpai)
+Built with ❤️ by [Shiva Bajpai](https://github.com/Shiva-Bajpai)
