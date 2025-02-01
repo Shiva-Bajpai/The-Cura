@@ -2,7 +2,6 @@
 
 # 🩺 Cura - Your Personal AI Health Assistant
 
-<img src="https://github.com/user-attachments/assets/deab03fd-4234-44c3-a6ad-484c4a1a02a1" alt="Cura App Logo">
 
 ## 🌟 Introduction
 Cura is a cutting-edge AI-powered health assistant designed to help you monitor and manage your well-being. Built with Next.js, Clerk, Stripe, Prisma, and MongoDB, Cura provides real-time insights and personalized recommendations to keep you on top of your health.
